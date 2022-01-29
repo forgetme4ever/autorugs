@@ -1,1 +1,3 @@
 # autorugs
+
+header and footer
